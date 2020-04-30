@@ -1,0 +1,18 @@
+.UserName {
+    position: absolute;
+    width: 350px;
+    margin-left: 300px;
+    margin-top: 60px;
+    height: 100%;
+    border-right: #b0b8bf solid 1px;
+}
+
+.MessageText {
+    position: absolute;
+    width: 350px;
+    margin-left: 350px;
+
+    height: 100%;
+
+
+}
